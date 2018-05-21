@@ -1,16 +1,17 @@
-# sindresorhus [![Build Status](https://travis-ci.org/sindresorhus/sindresorhus.svg?branch=master)](https://travis-ci.org/sindresorhus/sindresorhus)
+# qiugits [![Build Status](https://travis-ci.org/qiugits/qiugits.svg?branch=master)](https://travis-ci.org/qiugits/qiugits)
 
-> The [Sindre Sorhus](https://sindresorhus.com) CLI
+> The [QiuGits](https://gitshell.net) CLI
 
+<!--
 <img src="screenshot.png" width="752">
-
+-->
 
 ## Usage
 
 Install Node.js, then:
 
 ```
-$ npx sindresorhus
+$ npx qiugits
 ```
 
 
@@ -22,4 +23,4 @@ $ npx sindresorhus
 
 ## License
 
-MIT © [Sindre Sorhus](https://sindresorhus.com)
+MIT © [QiuGits](https://gitshell.net)
