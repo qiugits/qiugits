@@ -1,10 +1,8 @@
-# qiugits [![Build Status](https://travis-ci.org/qiugits/qiugits.svg?branch=master)](https://travis-ci.org/qiugits/qiugits)
+# qiugits <!-- [![Build Status](https://travis-ci.org/qiugits/qiugits.svg?branch=master)](https://travis-ci.org/qiugits/qiugits) -->
 
 > The [QiuGits](https://gitshell.net) CLI
 
-<!--
 <img src="screenshot.png" width="752">
--->
 
 ## Usage
 
