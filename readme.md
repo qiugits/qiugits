@@ -24,3 +24,6 @@ $ npx qiugits
 ## License
 
 MIT © [QiuGits](https://gitshell.net)
+
+---
+Inspired by [Sindre Sorhus](https://github.com/sindresorhus/sindresorhus)
